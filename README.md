@@ -17,6 +17,7 @@ graph TD
     C -->|Notify the nurse| E[LINE Messaging API]
 ```
 
-## Real-World Usage
+## Technology POC 
 
-Currently used by [Kamphaeng Phet City Municipality](https://www.kppmu.go.th/news-detail?hd=1&id=124000).
+- [Kamphaeng Phet City Municipality news](https://www.kppmu.go.th/news-detail?hd=1&id=124000).
+- [Kamphaeng Phet newspaper](https://ratchanonnoknoy.vercel.app/1751867708230_50070_center.pdf#page=3)
