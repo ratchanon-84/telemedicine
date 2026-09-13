@@ -17,7 +17,7 @@ graph TD
     C -->|Notify the nurse| E[LINE Messaging API]
 ```
 
-## News Coverage
+## Coverage
 
-- [Kamphaeng Phet City Municipality news](https://www.kppmu.go.th/news-detail?hd=1&id=124000).
-- [Kamphaeng Phet newspaper](https://ratchanonnoknoy.vercel.app/1751867708230_50070_center.pdf#page=3)
+- [News](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
+- [Newspaper](https://ratchanonnoknoy.vercel.app/1751867708230_50070_center.pdf#page=3)
