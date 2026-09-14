@@ -17,7 +17,7 @@ graph TD
     C -->|Notify the nurse| E[LINE Messaging API]
 ```
 
-## Coverage
+## Publications
 
 - [News](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
 - [Newspaper](https://ratchanonnoknoy.vercel.app/1751867708230_50070_center.pdf#page=3)
