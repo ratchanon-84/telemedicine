@@ -13,7 +13,7 @@
 - Google Sheets
 - Vercel
 
-## Architecture
+## Flowchart
 
 ```mermaid
 graph TD
