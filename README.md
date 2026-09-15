@@ -1,3 +1,9 @@
+## Publications
+
+- [Official News](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
+- [Newspaper](https://ratchanonnoknoy.vercel.app/1751867708230_50070_center.pdf#page=3)
+- [TikTok](https://www.tiktok.com/@kpp.pr/video/7506431498870902037)
+
 ## Tech Stack
 
 - Next.js
@@ -16,8 +22,3 @@ graph TD
     C -->|Store Data| D[(Google Sheets)]
     C -->|Notify the nurse| E[LINE Messaging API]
 ```
-
-## Publications
-
-- [News](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
-- [Newspaper](https://ratchanonnoknoy.vercel.app/1751867708230_50070_center.pdf#page=3)
